@@ -81,7 +81,7 @@
         },
         {
             "url": "https://openocean.finance/",
-            "name": "OpenOcean ETH",
+            "name": "OpenOcean",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/OpenOceanETH.png",
             "hot": 1
         },
@@ -143,12 +143,6 @@
             "url": "https://wault.finance/",
             "name": "WaultSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/WaultSwap.png",
-            "hot": 1
-        },
-        {
-            "url": "https://openocean.finance/",
-            "name": "OpenOcean BSC",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/OpenOceanBSC.png",
             "hot": 1
         },
         {
@@ -312,12 +306,6 @@
             "url": "https://www.polydex.fi/",
             "name": "PolyDEX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyDEX.png",
-            "hot": 1
-        },
-        {
-            "url": "https://openocean.finance/",
-            "name": "OpenOcean Polygon",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/OpenOceanPolygon.png",
             "hot": 1
         },
         {
@@ -591,12 +579,6 @@
             "url": "https://aavegotchi.com/",
             "name": "Aavegotchi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Aavegotchi.png",
-            "hot": 1
-        },
-        {
-            "url": "https://0xuniverse.com/",
-            "name": "0xUniverse",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/0xUniverse.jpg",
             "hot": 1
         },
         {
