@@ -297,12 +297,6 @@
             "hot": 1
         },
         {
-            "url": "https://swap.arken.finance/",
-            "name": "ARKEN Finance",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ARKENFinance.jpg",
-            "hot": 1
-        },
-        {
             "url": "https://jelly.market/",
             "name": "JellySwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/JellySwap.png",
@@ -961,12 +955,6 @@
             "url": "https://app.1inch.io/#/137/swap/MATIC/DAI",
             "name": "1inch Network on Polygon",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonPolygon.png",
-            "hot": 1
-        },
-        {
-            "url": "https://app.aave.com/",
-            "name": "Aave",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Aave.jpg",
             "hot": 1
         },
         {
