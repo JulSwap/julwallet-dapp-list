@@ -267,12 +267,6 @@
             "hot": 1
         },
         {
-            "url": "https://app.sushi.com/swap",
-            "name": "Sushiswap",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Sushiswap.png",
-            "hot": 1
-        },
-        {
             "url": "https://dfyn.network/",
             "name": "Dfyn Network",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DfynNetwork.png",
