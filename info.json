@@ -164,12 +164,6 @@
             "hot": 1
         },
         {
-            "url": "https://paraswap.io/#/?network=ethereum",
-            "name": "ParaSwap BSC",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ParaSwapBSC.png",
-            "hot": 1
-        },
-        {
             "url": "https://www.pandaswap.xyz/#/",
             "name": "Pandaswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Pandaswap.png",
@@ -276,12 +270,6 @@
             "url": "https://apeswap.finance/",
             "name": "ApeSwap.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ApeSwap.Finance.png",
-            "hot": 1
-        },
-        {
-            "url": "https://paraswap.io/#/?network=ethereum",
-            "name": "ParaSwap Polygon",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ParaSwapPolygon.png",
             "hot": 1
         },
         {
