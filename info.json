@@ -77,236 +77,236 @@
             "url": "DEX.AG",
             "name": "DEX.AG",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DEX.AG.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://openocean.finance/",
             "name": "OpenOcean",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/OpenOceanETH.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://forkdelta.app/",
             "name": "ForkDelta",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ForkDelta.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://totle.exchange/",
             "name": "Totle Swap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/TotleSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.dodoex.io/",
             "name": "DODO",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DODO.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dex.polyient.games/#/swap",
             "name": "Polyient DEX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyientDEX.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.kwikswap.org/#/swap",
             "name": "KwikSwap Protocol",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/KwikSwapProtocol.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://linkswap.app/#/swap",
             "name": "LinkSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/LinkSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://capitaldex.exchange/",
             "name": "Capital DEX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CapitalDEX.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://1inch.exchange/#/",
             "name": "1inch Network on Ethereum",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonEthereum.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "julswap.com",
             "name": "Julswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Julswap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://wault.finance/",
             "name": "WaultSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/WaultSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://bogged.finance/",
             "name": "Bogged.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Bogged.Finance.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://neverswap.com/#/",
             "name": "Neverswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Neverswap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://jetswap.finance/",
             "name": "Jetswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Jetswap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.pandaswap.xyz/#/",
             "name": "Pandaswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Pandaswap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nerve.fi/",
             "name": "Nerve",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Nerve.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dfuture.com/",
             "name": "dFuture",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/dFuture.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.sabertoothswap.com/",
             "name": "SabertoothSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SabertoothSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://benswap.finance/",
             "name": "BenSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BenSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://swap.arken.finance/",
             "name": "ARKEN Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ARKENFinance.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://swapx.launchzone.org/",
             "name": "Bscex SwapX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BscexSwapX.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://cheeseswap.app/",
             "name": "CheeseSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CheeseSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://main.ddexx.io/",
             "name": "dDEXX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/dDEXX.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://easyswap.finance/",
             "name": "EasySwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/EasySwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dapp.satoroswap.finance/",
             "name": "SatoroSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SatoroSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://swap.trading-tigers.com/",
             "name": "TradingTigers Swap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/TradingTigersSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://bscswap.com/",
             "name": "BSCswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BSCswap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.1inch.io/#/56/swap/BNB/1INCH",
             "name": "1inch Network on BSC",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonBSC.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.bakeryswap.org/",
             "name": "DeFi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DeFi.png",
-            "hot": 1
+            "hot": 0
         },
 
         {
             "url": "https://quickswap.exchange/",
             "name": "QuickSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/QuickSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dfyn.network/",
             "name": "Dfyn Network",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DfynNetwork.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://apeswap.finance/",
             "name": "ApeSwap.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ApeSwap.Finance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://swap.cometh.io/",
             "name": "ComethSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ComethSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://farm.polyzap.finance/?ref=0x86c94638eD7BaB30fA72efdE0975600F74762cA4",
             "name": "PolyZap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyZap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.polydex.fi/",
             "name": "PolyDEX",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyDEX.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.swap.smartdex.app/#/swap",
             "name": "smartdex",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/smartdex.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://jelly.market/",
             "name": "JellySwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/JellySwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.1inch.io/#/137/swap/MATIC/DAI",
             "name": "1inch Network on Polygon",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonPolygon.png",
-            "hot": 1
+            "hot": 0
         }
     ],
     "GAME" : 
@@ -387,265 +387,265 @@
             "url": "https://cryptodozer.io/",
             "name": "CryptoDozer",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoDozer.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://bravefrontierheroes.com/",
             "name": "BRAVE FRONTIER HEROES",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BRAVEFRONTIERHEROES.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://0xuniverse.com/",
             "name": "0xUniverse",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/0xUniverse.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.superworldapp.com//",
             "name": "SuperWorld AR Real Estate",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SuperWorldARRealEstate.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://game.lordless.io/",
             "name": "LORDLESS",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/LORDLESS.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://godsunchained.com/",
             "name": "Gods Unchained",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/GodsUnchained.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://synergyofserra.com/",
             "name": "Synergy of Serra",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SynergyofSerra.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.tapplatform.io/",
             "name": "The Tap Platform",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/TheTapPlatform.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.mobox.io/",
             "name": "MOBOX: NFT Farmer",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/MOBOXNFTFarmer.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.cryptoblades.io/",
             "name": "CryptoBlades",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoBlades.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://xwg.games/",
             "name": "X World Games",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/XWorldGames.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://foxynft.org/",
             "name": "Foxy Equilibrium",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/FoxyEquilibrium.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dungeonswap.app/",
             "name": "DungeonSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DungeonSwap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nftbox.vip/",
             "name": "NFTBox",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NFTBox.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://apwars.farm/",
             "name": "ApWars",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ApWars.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://cryptoracing.vip/",
             "name": "CryptoRacingVIP",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoRacingVIP.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nightlifecrypto.com/",
             "name": "Night Life Crypto",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NightLifeCrypto.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://bsc.seascape.network/index/product/circus.html",
             "name": "Profit Circus S2 BSC",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ProfitCircusS2BSC.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://ultiarena.com/",
             "name": "UltiArena",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/UltiArena.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.mezurashigame.com/",
             "name": "Mezurashi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Mezurashi.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.arenaswap.com/",
             "name": "ArenaSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ArenaSwap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://bsc.seascape.network/index/product/saloon.html?",
             "name": "Staking Saloon S2 BSC",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/StakingSaloonS2BSC.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.nftbossbattles.com/",
             "name": "NFT Boss Battles",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NFTBossBattles.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://cazicazi.com/",
             "name": "CAZI CAZI",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CAZICAZI.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://winlambo.fund/",
             "name": "Winlambo",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Winlambo.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nashmetaverse.com/",
             "name": "NASH Metaverse",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NASHMetaverse.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.battlepets.finance/",
             "name": "Battle Pets",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BattlePets.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.chainzarena.com/",
             "name": "ChainZ Arena - Play and Earn",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ChainZArena-PlayandEarn.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://aavegotchi.com/",
             "name": "Aavegotchi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Aavegotchi.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://swap.cometh.io/",
             "name": "Cometh",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Cometh.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.mycryptosaga.net/",
             "name": "My Crypto Saga",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/MyCryptoSaga.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://zed.run/",
             "name": "ZED RUN",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ZEDRUN.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://neondistrict.io/",
             "name": "Neon District",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NeonDistrict.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polymonmonsters.com/",
             "name": "Polygon Monsters",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolygonMonsters.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://arena.cryptocolosseum.com/",
             "name": "Crypto Colosseum",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoColosseum.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://play.mcp3d.com/",
             "name": "MegaCryptoPolis",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/MegaCryptoPolis.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://chaino.chaingames.io/",
             "name": "Chaino",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Chaino.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://axieinfinity.com/",
             "name": "Drakons",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Drakons.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://embersword.com/",
             "name": "Ember Sword",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/EmberSword.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://synergyofserra.com/",
             "name": "Synergy of Serra",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SynergyofSerra.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://pirates2048.com/",
             "name": "Pirates 2048",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Pirates2048.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://cryptopick.net/",
             "name": "CryptoPick",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoPick.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.harborbcg.net/",
             "name": "Harbor Bcg",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/HarborBcg.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://defiofthrones.io/",
             "name": "DeFi of Thrones",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DeFiofThrones.png",
-            "hot": 1
+            "hot": 0
         }
     ],
     "DEFI":
@@ -726,295 +726,295 @@
             "url": "https://app.alchemix.fi/",
             "name": "Alchemix",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Alchemix.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://eswap.tube/",
             "name": "Eswap.tube",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Eswap.tube.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://mirror.finance/",
             "name": "Mirror",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Mirror.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://v2beta.dodoex.io/",
             "name": "DODO v2",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DODOv2.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.flexa.network/",
             "name": "Flexa",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Flexa.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://dogpark.sanshuinufinance.com/",
             "name": "Sanshu Inu - Dog Park",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/SanshuInu-DogPark.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://fei.money/",
             "name": "Fei Protocol",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/FeiProtocol.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://cowswap.exchange/#/swap",
             "name": "CowSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CowSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.badger.finance/",
             "name": "Badger.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Badger.Finance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.liquity.fi/",
             "name": "Liquity",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Liquity.jpg",
-            "hot": 1
+            "hot": 0
         },
 
         {
             "url": "https://autofarm.network/",
             "name": "Autofarm",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Autofarm.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://biswap.org/",
             "name": "Biswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Biswap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://pancakebunny.finance/pool",
             "name": "Pancake Bunny",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PancakeBunny.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://apeswap.finance/",
             "name": "ApeSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/ApeSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://o3swap.com/",
             "name": "O3 Swap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/O3Swap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://wifiswap.finance/",
             "name": "WIFI SWAP",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/WIFISWAP.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.rabbitfinance.io/earn",
             "name": "Rabbit Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/RabbitFinance.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.1inch.io/#/56/swap/BNB/1INCH",
             "name": "1inch Network on BSC",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonBSC.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://space.tuktuk.finance/",
             "name": "TukTuk Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/TukTukFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://pantherswap.com/",
             "name": "PantherSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PantherSwap.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.wardenswap.com/",
             "name": "WardenSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/WardenSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.bakeryswap.org/",
             "name": "BakerySwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BakerySwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://hifarm.finance/",
             "name": "HIFarm",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/HIFarm.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.alpacafinance.org/",
             "name": "Alpaca Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/AlpacaFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nominex.io/",
             "name": "Nominex (NMX)",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Nominex(NMX).png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://venus.io/",
             "name": "Venus",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Venus.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://ellipsis.finance/",
             "name": "Ellipsis Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/EllipsisFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://hodltoken.net/",
             "name": "HODL Token",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/HODLToken.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://thoreum.finance/",
             "name": "Thoreum",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Thoreum.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://matic.chumhum.finance/",
             "name": "Chumhum.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Chumhum.Finance.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polycat.finance/",
             "name": "Polycat Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolycatFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://autofarm.network/polygon/",
             "name": "Autofarm (Polygon)",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Autofarm(Polygon).png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.sushi.com/swap",
             "name": "Sushi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Sushi.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://augury.finance/",
             "name": "Augury Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/AuguryFinance.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://adamant.finance/",
             "name": "Adamant",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Adamant.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.wault.finance/bsc/index.html",
             "name": "WaultSwap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/WaultSwap.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.1inch.io/#/137/swap/MATIC/DAI",
             "name": "1inch Network on Polygon",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/1inchNetworkonPolygon.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polycrystal.finance/",
             "name": "PolyCrystal Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyCrystalFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://farm.boneswap.finance/",
             "name": "BoneSwap Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/BoneSwapFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polyyeld.finance/",
             "name": "PolyYeld Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyYeldFinance.png",
-            "hot": 1
+            "hot": 0
         },{
             "url": "https://www.polypulsar.farm/",
             "name": "Polypulsar",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Polypulsar.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.polypup.finance/",
             "name": "PolyPup Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyPupFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.firebird.finance/",
             "name": "Firebird Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/FirebirdFinance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polylion.exchange/",
             "name": "PolyLion",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyLion.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://farmhero.io/",
             "name": "FarmHero",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/FarmHero.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polyroll.org/",
             "name": "Polyroll",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Polyroll.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://app.polyquity.org/",
             "name": "PolyQuity",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PolyQuity.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://polygon.beefy.finance/",
             "name": "Beefy.Finance",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Beefy.Finance.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://kogefarm.io/",
             "name": "KogeFarm",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/KogeFarm.png",
-            "hot": 1
+            "hot": 0
         }
     ],
    "NFT":
@@ -1094,49 +1094,49 @@
             "url": "https://aavegotchi.com/",
             "name": "Aavegotchi",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Aavegotchi.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://foundation.app/",
             "name": "Foundation",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Foundation.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://www.cryptovoxels.com/",
             "name": "CryptoVoxels",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/CryptoVoxels.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://nonfungibleapes.wtf/",
             "name": "Non Fungible Apes",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NonFungibleApes.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://illuvium.io/",
             "name": "Illuvium",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Illuvium.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://avastars.io/",
             "name": "Avastars",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Avastars.png",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://embersword.com/",
             "name": "Ember Sword",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/EmberSword.jpg",
-            "hot": 1
+            "hot": 0
         },
         {
             "url": "https://decentraland.org/blog/project-updates/manage-names-in-the-builder/",
             "name": "Decentraland Names",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DecentralandNames.png",
-            "hot": 1
+            "hot": 0
         }
     ]
 }
