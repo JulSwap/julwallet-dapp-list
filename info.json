@@ -2,6 +2,12 @@
 {
     "EXCHANGE": [
         {
+            "url": "https://pancakeswap.finance/",
+            "name": "PancakeSwap",
+            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PancakeSwap.png",
+            "hot": 1
+        },
+        {
             "url": "https://app.uniswap.org/#/swap",
             "name": "Uniswap",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Uniswap.jpg",
@@ -259,12 +265,7 @@
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/DeFi.png",
             "hot": 1
         },
-        {
-            "url": "https://pancakeswap.finance/",
-            "name": "PancakeSwap",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PancakeSwap.png",
-            "hot": 1
-        },
+
         {
             "url": "https://quickswap.exchange/",
             "name": "QuickSwap",
@@ -708,10 +709,23 @@
         }
     ],
     "DEFI":
-        [{
+        [
+        {
+            "url": "https://pancakeswap.finance/",
+            "name": "PancakeSwap",
+            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PancakeSwap.png",
+            "hot": 1
+        },
+        {
             "url": "https://app.uniswap.org/",
             "name": "Uniswap V3",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/UniswapV3.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://bitdroplet.com/dapp/",
+            "name": "Decentralized SIP",
+            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Bitdroplet.jpg",
             "hot": 1
         },
         {
@@ -828,12 +842,7 @@
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/Liquity.jpg",
             "hot": 1
         },
-        {
-            "url": "https://pancakeswap.finance/",
-            "name": "PancakeSwap",
-            "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/PancakeSwap.png",
-            "hot": 1
-        },
+
         {
             "url": "https://autofarm.network/",
             "name": "Autofarm",
