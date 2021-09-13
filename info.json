@@ -1019,7 +1019,7 @@
     ],
    "NFT":
         [{
-            "url": "http://test.nftobr.com",
+            "url": "https://test.nftobr.com",
             "name": "NFTOBR",
             "logo": "https://raw.githubusercontent.com/JustLiquidity/julwallet-dapp-list/main/logos/NFTOBR.jpg",
             "hot": 1
